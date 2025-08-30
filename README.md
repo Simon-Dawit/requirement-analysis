@@ -17,3 +17,19 @@ Requirement Analysis is a critical phase in the Software Development Life Cycle 
 - **Ensures Product Quality and User Satisfaction**  
   Well-defined requirements help developers build features that meet user needs and expectations. This leads to higher satisfaction and fewer post-launch issues.
 
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**  
+  Collecting relevant information from stakeholders to understand the goals and constraints of the system.
+
+- **Requirement Elicitation**  
+  Using techniques like interviews, questionnaires, and workshops to uncover detailed user needs.
+
+- **Requirement Documentation**  
+  Organizing and recording requirements in structured formats such as user stories, use cases, or requirement specifications.
+
+- **Requirement Analysis and Modeling**  
+  Analyzing requirements to identify gaps, conflicts, and priorities. Creating visual models to represent system behavior and interactions.
+
+- **Requirement Validation**  
+  Ensuring that documented requirements are accurate, complete, and aligned with stakeholder expectations.
