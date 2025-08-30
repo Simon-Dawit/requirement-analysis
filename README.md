@@ -57,3 +57,34 @@ Non-functional requirements describe how the system performs, its quality attrib
 - **Content delivery speed** is enhanced via CDN integration, ensuring fast access to hotel data and media.
 - **Asynchronous processing and reliability** are managed using Kafka and RabbitMQ for message queuing across services.
 - **Big data analytics** are enabled through Apache Spark Streaming and Hadoop, supporting business insights and user segmentation.
+
+## Use Case Diagrams
+
+Use Case Diagrams are visual tools used in Requirement Analysis to represent the interactions between users (actors) and the system. They help clarify system functionality by showing who does what and how different components respond to user actions.
+
+### Benefits of Use Case Diagrams
+
+- Provide a clear overview of system functionality
+- Help identify actors and their roles
+- Support communication between stakeholders and developers
+- Serve as a foundation for writing user stories and acceptance criteria
+
+### Booking System Use Case Diagram
+
+Below is a simplified use case diagram for the hotel booking system, illustrating key actors and their interactions:
+
+![Use Case Diagram for Booking System](alx-booking-uc.png)
+
+**Actors:**
+- Customer
+- Hotel Manager
+- Admin
+
+**Use Cases:**
+- Search Hotels
+- View Hotel Details
+- Make Booking
+- Receive Notifications
+- Manage Listings
+- Process Payments
+- View Booking History
